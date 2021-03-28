@@ -67,9 +67,9 @@ ffmpeg -i outputfile.wav -vn  outputfile.flac
 
 ­‚µ‘O‚Ì—‚½‚æ‚¤‚È”gŒ`‚ğ’T‚µ‚Ä‚«‚Ä‚»‚ê‚ğ‚È‚¼‚é‚æ‚¤‚Èˆ—‚É‚µ‚Ä‚İ‚Ü‚µ‚½B
 
-![}2: C•œ—á](/doc/img/fig1.png) 
+![}2: V‚µ‚¢C•œ—á1](/doc/img/fig2.png) 
 
-![}3: C•œ—á](/doc/img/fig2.png) 
+![}3: V‚µ‚¢C•œ—á2](/doc/img/fig3.png) 
 
 ## ‚»‚Ì‘¼
 
